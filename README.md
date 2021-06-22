@@ -17,9 +17,12 @@ If you change this file name to "ze_grau_a03_4ff.cfg", you can play these rtv le
 4. Move "sound" file to "(your stream file)\steamapps\common\Counter-Strike Global Offensive\csgo".
 5. Enjoy extra rtv levels! Have fun.
 
-# Version 1.0.x
+## Version 1.0.x
+###### v1.0.2
+Fixed going back to stage 1 after you beat rtv-fys.
+
 ###### v1.0.1
-fixed rtv-fys beams bug.
+Fixed rtv-fys beams bug.
 
 I still dont know how to delete boss that went to sides.
 
