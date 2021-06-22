@@ -7,7 +7,7 @@ So if you find mistakes or glitches, contact to Contrapasso#5417(discord) or thi
 If you change this file name to "ze_grau_a03_4ff.cfg", you can play these rtv levels in ze_grau_a03_4ff.
 
 # Requirements
-1. your own server (try to find in google or some websites)
+1. your own server
 2. Stripper:Source plugin (go to http://www.bailopan.net/stripper/#install and install plugin. you need Metamod:Source 1.8.6 or higher.)
 
 # Install
