@@ -8,7 +8,7 @@ If you change this file name to "ze_grau_a03_4ff.cfg", you can play these rtv le
 
 # Requirements
 1. your own server
-2. Stripper:Source plugin (go to http://www.bailopan.net/stripper/#install and install plugin. you need Metamod:Source 1.8.6 or higher.)
+2. Stripper:Source plugin (go to http://www.bailopan.net/stripper/#install and install the plugin. you need Metamod:Source 1.8.6 or higher.)
 
 # Install
 1. Click "Code" button and click "Download ZIP".
