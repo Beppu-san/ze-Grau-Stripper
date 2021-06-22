@@ -15,7 +15,8 @@ If you change this file name to "ze_grau_a03_4ff.cfg", you can play these rtv le
 2. Unzip the .zip file.
 3. Move "csgo" file to your own server's file.
 4. Move "sound" file to "(your stream file)\steamapps\common\Counter-Strike Global Offensive\csgo".
-5. Enjoy extra rtv levels! Have fun.
+5. Type "brush_rtv2_physbox disable" for rtv-fys in your CLIENT console.
+6. Enjoy extra rtv levels! Have fun.
 
 ## Version 1.0.x
 ###### v1.0.2
