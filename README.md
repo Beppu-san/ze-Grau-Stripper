@@ -17,7 +17,13 @@ If you change this file name to "ze_grau_a03_4ff.cfg", you can play these rtv le
 4. Move "sound" file to "(your stream file)\steamapps\common\Counter-Strike Global Offensive\csgo".
 5. Enjoy extra rtv levels! Have fun.
 
-# Version 1.0
+# Version 1.0.x
+###### v1.0.1
+fixed rtv-fys beams bug.
+
+I still dont know how to delete boss that went to sides.
+
+###### v1.0.0
 Adding rtv-fys(rtv2).
 
 Specifications: you cannot get 175 HP when you drop from boss floor in starting boss-fight.
