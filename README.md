@@ -1,8 +1,11 @@
 # Grau-Stripper
 This stripper will add extra rtv levels.
 Any stripper makers will not publish their own stripper, so I remade rtv levels and publish MY own stripper.
+
 I tried to reproduce original one as much as I can but sometimes I made mistakes.
+
 So if you find mistakes or glitches, contact to Contrapasso#5417(discord) or this github.
+
 If you change this file name to "ze_grau_a03_4ff.cfg", you can play these rtv levels in ze_grau_a03_4ff.
 
 # Requirements
