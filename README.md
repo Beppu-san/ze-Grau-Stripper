@@ -25,7 +25,7 @@ Adding rtv-z(rtv3).
 
 There are 2 versions: .1x and FyS. FyS is different from .1x in having HP and CC.
 
-You can change which version in adminroom. Try to type "setpos 0 0 -1800" in your CLIENT console.
+You can change which version will play in adminroom. Try to type "setpos 0 0 -1800" in your CLIENT console.
 
 Decreasing rtv-fys difficulty.
 
