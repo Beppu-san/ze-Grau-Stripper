@@ -19,6 +19,12 @@ If you change this file name to "ze_grau_a03_4ff.cfg", you can play these rtv le
 6. Enjoy extra rtv levels! Have fun.
 
 # History
+## Version 2.0.x
+###### v2.0.0
+the stripper made renewal.
+
+Adding CC .raw files. set it on "(your steam file)\steamapps\common\Counter-Strike Global Offensive\csgo".
+
 ## Version 1.1.x
 ###### v1.1.0
 Adding rtv-z(rtv3).
