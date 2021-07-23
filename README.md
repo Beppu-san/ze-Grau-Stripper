@@ -19,8 +19,11 @@ If you change this file name to "ze_grau_a03_4ff.cfg", you can play these rtv le
 ## Version 3.0.x
 ###### v3.0.0
 Welcome to my world.
+
 I added rtv-a, that original rtv stage, was made by me.
 Good luck boys.
+
+Also, rtv-z FyS version got deleted.
 
 ## Version 2.0.x
 ###### v2.0.0
