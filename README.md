@@ -2,19 +2,6 @@
 This stripper will add extra rtv levels.
 If you change this file name to "ze_grau_a03_4ff.cfg", you can play these rtv levels in ze_grau_a03_4ff.
 
-# Requirements
-1. your own server
-2. Stripper:Source plugin (go to http://www.bailopan.net/stripper/#install and install the plugin. you need Metamod:Source 1.8.6 or higher.)
-
-# Install
-1. Click "Code" button and click "Download ZIP".
-2. Unzip the .zip file.
-3. Move "csgo" file to your own server's file.
-4. Move "sound" file to "(your steam file)\steamapps\common\Counter-Strike Global Offensive\csgo".
-5. Move "materials" file to "(your steam file)\steamapps\common\Counter-Strike Global Offensive\csgo".
-6. Type "ent_fire brush_rtv2_physbox disable" for rtv-fys, "ent_fire brush_rtv3_physbox disable" for rtv-z, "ent_fire brush_rtv3_2_physbox disable" for rtv-z(fys version) in your CLIENT console.
-7. Enjoy extra rtv levels! Have fun.
-
 # History
 ## Version 3.0.x
 ###### v3.0.0
@@ -54,3 +41,17 @@ I still dont know how to delete boss that went to sides.
 Adding rtv-fys(rtv2).
 
 Specifications: you cannot get 175 HP when you drop from boss floor in starting boss-fight.
+
+# Requirements
+1. your own server
+2. Stripper:Source plugin (go to http://www.bailopan.net/stripper/#install and install the plugin. you need Metamod:Source 1.8.6 or higher.)
+
+# Install
+1. Click "Code" button and click "Download ZIP".
+2. Unzip the .zip file.
+3. Move "csgo" file to your own server's file.
+4. Move "sound" file to "(your steam file)\steamapps\common\Counter-Strike Global Offensive\csgo".
+5. Move "materials" file to "(your steam file)\steamapps\common\Counter-Strike Global Offensive\csgo".
+6. Type "ent_fire brush_rtv2_physbox disable" for rtv-fys, "ent_fire brush_rtv3_physbox disable" for rtv-z, "ent_fire brush_rtv3_2_physbox disable" for rtv-z(fys version) in your CLIENT console.
+7. Enjoy extra rtv levels! Have fun.
+
